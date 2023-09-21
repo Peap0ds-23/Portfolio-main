@@ -1,4 +1,2 @@
 
- This is my Portfolio Website,made using HTML CSS 
- and JAVASCRIPT.I will be making further changes in this and your contribution is 
- appreciated.
+ This is my portfolio website crafted using HTML, CSS, and JavaScript that highlights my work and accomplishments.
